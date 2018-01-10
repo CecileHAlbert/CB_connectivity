@@ -4,7 +4,8 @@ Code related to the paper 'Applying network theory to prioritize multi-species h
 *This is still a work in progress, and we will add some scripts step by step*
 
 ## Main working flow
-
+I think you should use an
+`<addr>` element here instead.
 ## Recommandations
 
 
